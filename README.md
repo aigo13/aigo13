@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aigo13
 - 👀 I’m interested in Machine learning, Data Science, Quantatiative research(financial derivatives, analysis....).
 - 🌱 I’m currently learning ...
-- 📫 How to reach me : aigo13@gmail.com
+- 📫 How to reach me : aigo13 __at__ gmail.com
 
 <!---
 aigo13/aigo13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

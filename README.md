@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aigo13
-- 👀 I’m interested in Machine learning, Data Science, Quantatiative research(financial derivatives, analysis....).
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Quantum Computing, Machine learning, Data Science, Quantatiative research(financial derivatives, analysis....).
+- 🌱 I’m currently learning Quantum Computing!!
 - 📫 How to reach me : aigo13 __at__ gmail.com
 
 <!---
